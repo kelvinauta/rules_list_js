@@ -1,0 +1,18 @@
+{
+  "name": "rules_list",
+  "description": "Create an easily readable list of rules to validate before proceeding with the execution of the rest of the code.",
+  "module": "src/index.js",
+  "author": "kelvinauta",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "bun --hot run src/index.js",
+    "start": "bun run src/index.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

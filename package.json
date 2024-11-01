@@ -1,5 +1,5 @@
 {
-  "name": "rules_list",
+  "name": "tuki_rules",
   "description": "Create an easily readable list of rules to validate before proceeding with the execution of the rest of the code.",
   "module": "src/index.js",
   "author": "kelvinauta",
